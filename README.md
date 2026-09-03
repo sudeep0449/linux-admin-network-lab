@@ -192,4 +192,4 @@ Debugging the script proved more instructive than writing it. Two issues were id
 
 ## Full Documentation
 
-[`Linux-Admin-Lab-Final-Documentation.docx`](./Linux-Admin-Lab-Final-Documentation.docx) contains this same write-up as a formatted report with every screenshot embedded inline.
+[`Linux-Admin-Lab-Final-Documentation.pdf`](./Linux-Admin-Lab-Final-Documentation.pdf) contains this same write-up as a formatted report with every screenshot embedded inline.
