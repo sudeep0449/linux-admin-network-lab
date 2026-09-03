@@ -1,7 +1,6 @@
 # Linux System & Network Administration Lab
 
-This project was built to gain practical, hands-on experience with core Linux system and network administration tasks rather than studying them in the abstract. I provisioned my own Ubuntu virtual machine and worked through user and permission management, service administration, package management, networking, security hardening, and log analysis, executing every command directly. Where issues arose during the process, the troubleshooting steps are documented alongside the resolution, since diagnosing and resolving real problems was a core part of the exercise. All 24 evidence screenshots referenced below are included in [`SS.zip`](./SS.zip), numbered in the order they occurred within each section.
-
+This project was built to gain practical, hands-on experience with core Linux system and network administration tasks rather than studying them in the abstract. I provisioned my own Ubuntu virtual machine and worked through user and permission management, service administration, package management, networking, security hardening, and log analysis, executing every command directly. Where issues arose during the process, the troubleshooting steps are documented alongside the resolution, since diagnosing and resolving real problems was a core part of the exercise. All 24 evidence screenshots referenced below are included in [`Screenshots.zip`](./Screenshots.zip), numbered in the order they occurred within each section.
 ## Environment
 
 - **OS:** Ubuntu 26.04 LTS Desktop
